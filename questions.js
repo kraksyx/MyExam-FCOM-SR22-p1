@@ -407,7 +407,7 @@ const questions = [
             "800 ft",
             "600 ft"
         ],
-        correct: 3
+        correct: 1
     },
     {
         question: "42. What should the descent rate be below 1000 ft?",
